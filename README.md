@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krishna Shelar</h1>
 <h3 align="center">A passionate Computer Engineering Student from India</h3>
-<img align="right" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0ZAM4R7zj9I4Tnj6HJAPcH&ust=1723888730525000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLC_p46g-YcDFQAAAAAdAAAAABAY](https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM4MDMxMTksIm5iZiI6MTcyMzgwMjgxOSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE2VDEwMDY1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM0MzgyNDkxNGFhOTljODUwMDc2ODQ2MzRjOTg2ZWRmZTlhMDg4ZGZkNTlmNzNiOTdhZTNjMTA2OTVmMTQwNzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.5DfDsda-sa7KZhOZZMRmlLtbeCpflIg7XvRh7GZ9YSE)">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krish1712204&label=Profile%20views&color=0e75b6&style=flat" alt="krish1712204" /> </p>
 
