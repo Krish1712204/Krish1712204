@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Krishna Shelar</h1>
+<h1 align="center">Hi 👋, I'm 𝐊𝐫𝐢𝐬𝐡𝐧𝐚 𝐒𝐡𝐞𝐥𝐚𝐫</h1>
 <h3 align="center">A passionate Computer Engineering Student from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
